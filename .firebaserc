@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "site-basico-angular": {
+      "hosting": {
+        "RPulsNg": [
+          "site-basico-angular"
+        ]
+      }
+    }
+  }
+}
