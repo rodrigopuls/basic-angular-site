@@ -1,6 +1,10 @@
 # RPulsNg
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6 + Fake Json Server.
+
+## Live Preview
+
+https://site-basico-angular.web.app
 
 ## Development server
 
